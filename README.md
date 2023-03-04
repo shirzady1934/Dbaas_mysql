@@ -9,6 +9,6 @@ And for run project with flask run the following command:
 
     $ flask run
 
-For get a database send a POST request to `/getdb` with parameter `token = helloworld` 
+For get a database send a POST request to `/getdb` with parameter `token = "helloworld"` 
 
 This project work for firewall-cmd.
